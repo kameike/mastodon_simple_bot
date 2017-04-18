@@ -1,0 +1,5 @@
+[post.random]
+interval = 30m
+phrases = """
+"""
+

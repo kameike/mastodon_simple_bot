@@ -1,0 +1,17 @@
+[[account]]
+name = "bot1" #what ever you want just local identifer
+client_name = "simple_bot" #this become your app name for bot. if you change here this app try renew client_id
+host_url = "https://pawoo.net"
+password = "password_for_account"
+email = "email_for_account@email.com"
+setting_file = "settings/bot1.toml"
+
+# you can make bot as many as you want :D
+[[account]]
+name = "あらいさーんbot"
+client_name = "ジャパリパーク"
+host_url = "https://pawoo.net"
+password = "password_for_account"
+email = "email_for_account@email.com"
+setting_file = "settings/bot2.toml"
+

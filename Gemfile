@@ -1,4 +1,8 @@
 # frozen_string_literal: true
 source "https://rubygems.org"
 
-gem "selenium-webdriver"
+gem 'mastodon-api'
+gem 'oauth2'
+gem 'toml-rb'
+gem 'rspec'
+gem 'rufus-scheduler'
