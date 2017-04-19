@@ -1,6 +1,4 @@
-# Pawooでbotが動くよ！やったね
-[Selenium](http://seleniumhq.github.io/selenium/docs/api/rb/Selenium.html)からポストするナウでヤングでエモなbot。
-done is better than perfectって偉い人が言っていた。
+# Mastodon Bot
 
 できること
 - 文言を一定間隔でランダムに投稿する
