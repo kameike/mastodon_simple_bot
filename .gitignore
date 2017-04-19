@@ -1,2 +1,6 @@
 .bundle/*
 vendor/bundle/*
+account.toml
+.app_keys.yaml
+.tokens.yaml
+settings/*.toml
